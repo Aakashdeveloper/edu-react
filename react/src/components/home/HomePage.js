@@ -8,9 +8,7 @@ class HomePage extends React.Component{
 		return(
 			<div className= "jumbotron">
 				<h1 className="head">I am doing React</h1>
-				<p className="one">test</p>
-				<p className="two">test</p>
-				<h1 className="two">test</h1>
+				<p>This is React HomePage</p>
 
 				<Link to="about" className="btn btn-primary one">More About</Link>
 				
