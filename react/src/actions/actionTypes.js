@@ -1,0 +1,1 @@
+export const loadCoursesSuccess = 'LOAD_COURSES_SUCCESS';
