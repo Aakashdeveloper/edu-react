@@ -28,6 +28,14 @@ const courses = [
     length: "2:52",
     category: "Software Architecture"
   },
+  {
+    id: "Angular2",
+    title: "Clean Code: Writing Code for Humans",
+    watchHref: "https://github.com/Aakashdeveloper/Angular2",
+    authorId: "aakash-handa",
+    length: "3:10",
+    category: "Software Practices"
+  }
 ];
 
 function replaceAll(str, find, replace) {

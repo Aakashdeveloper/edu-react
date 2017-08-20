@@ -19,6 +19,7 @@ const Header = () =>{
 		        <li><IndexLink to="/" activeClassName="active">Home</IndexLink></li>
 		        <li><Link to="/about" activeClassName="active">About</Link></li>
 		        <li><Link to="/courses" activeClassName="active">Courses</Link></li>
+						<li><Link to="/course" activeClassName="active">Manage Course</Link></li>
 		        <li></li>
 		      </ul>
 		      <ul className="nav navbar-nav navbar-right">
